@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Meramaf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I’m @Meramaf 👋
 
-<!---
-Meramaf/Meramaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ ![Meramaf's github stats](https://github-readme-stats.vercel.app/api?username=Meramaf)
+
+ - 🌱 I’m currently taking baby steps in C++ and SQL
+ - 💬 Ask me about WoW
+ - 🔭 I’m currently working on https://wowzull.de
