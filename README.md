@@ -5,4 +5,4 @@
 
  - 🌱 I’m currently taking baby steps in C++ and SQL
  - 💬 Ask me about WoW
- - 🔭 I’m currently working on https://wowzull.de
+ - 🔭 I’m currently working on https://wowzull.com
